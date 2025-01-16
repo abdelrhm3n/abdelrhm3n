@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working As Back End developer ...
+- 🔭 I’m currently working As Back End developer ...![Uploading 971-compressed-1500x500.jpg…]()
+
 - 🌱 I’m currently learning  jave , c# ,paython , c++ , html , javascript , css ...
 - 👯  🤔  💬  📫  😄  ⚡ 
 <!--
