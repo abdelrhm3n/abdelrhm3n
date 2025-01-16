@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working As Back End developer ...
+- 🌱 I’m currently learning  jave , c# ,paython , c++ , html , javascript , css ...
+- 👯  🤔  💬  📫  😄  ⚡ 
 <!--
 **abdelrhm3n/abdelrhm3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
